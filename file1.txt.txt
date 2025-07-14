@@ -1,1 +1,12 @@
 this is my 1st git file
+
+
+
+git init
+git add .
+git status
+git commit -m "commit string"
+git branch -M main
+git remote add origin https://github.com/Siddharth-22-1994/repo2.git
+git push -u origin main
+
